@@ -18,9 +18,8 @@ npm start
 - [x] Docker
 - [ ] Express Tests
 - [ ] React.js
-- [ ] Babel for ES6 and ES7
+- [x] Babel for ES6 and ES7
 - [ ] pm2
 - [ ] Webpack
 - [ ] Redux
-- [ ] ESLint
-- [ ] Browserstack
+- [x] ESLint
